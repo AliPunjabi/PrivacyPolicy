@@ -1,11 +1,11 @@
 # PrivacyPolicy
-PrivacyPolicy for Dawae app
+PrivacyPolicy for Joblot app
 Dawae: Privacy policy
-Welcome to the Dawae app for Android!
+Welcome to the Dawae app for IOS!
 
-This is an open source Android app. The source code is available on GitHub under the MIT license; the app is also available on Google Play.
 
-As an avid Android user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
+
+As an avid IOS user myself, I take privacy very seriously. I know how irritating it is when apps collect your data without your knowledge.
 
 I have not programmed this app to collect any personally identifiable information. All data (app preferences created by the you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
 
@@ -13,4 +13,4 @@ If you find any security vulnerability that has been inadvertently caused by me,
 
 Yours sincerely,
 App Developing team
-dropal.ltd@gmail.com
+muhammad.husnain.raza.125@gmail.com
